@@ -1,0 +1,84 @@
+--- GETTING STARTED ---
+
+***STEP 0***: Install Visual Studio Community 2019 or 2022 (available to anyone for free, but you 
+do need to login with a free microsoft account). 
+https://visualstudio.microsoft.com/vs/community/
+
+Make sure you include the "Desktop development with C++" workload during installation. 
+If you forgot, open Visual Studio, go to "Tools", "Get Tools and Features..." and 
+add it to your existing installation.
+
+Second, you need ""C++ CMake tools for Windows" installed which is also a "component" that you
+can add to Visual Studio. It can be selected during installation and/or using the 
+instructions above and searching in the "Individual components" tab.
+
+Optional: You may also want to install git to interact with the opengl-examples
+git repository.
+
+***STEP 1***: Download and extract the opengl-libs.zip file provided by the instructor.
+Also download this repository into a folder named opengl-examples.
+These two folders must be next to each other. For example, put both on your 
+Desktop. SKIP TO STEP 2.
+
+If you do not have an opengl-libs folder, create one. Then, download several 
+libraries that opengl-examples depends on. Extract the contents of the library
+zip files that you download into the opengl-libs folder directly (don't create extra
+subdirectories). Instructions for obtaining and compiling these libraries
+are available in separate text files in this directory. Don't put
+multiple versions of any one library inside of your opengl-libs
+folder---having multiple versions available may confuse the build
+process.
+
+ - ASSIMP - You need to compile yourself.
+ - GLFW - Download either the 64-bit precompiled version or the source code.
+ - Glew - Download includes 64 bit precompiled library.
+ - ImageMagick - Optional: Install to allow loading more image formats.
+ - VRPN - Optional: if in doubt, skip it.
+
+If you are presented with a choice, use the 64 bit versions of libraries
+and the compilation of your code.
+
+***STEP 2***: Right click on the opengl-examples folder and click
+"Open with Visual Studio". After a moment, cmake should automatically
+run and show output at the bottom of your screen. If successful, the cmake output
+at the bottom of the screen should say "CMake generation finished" at the end.
+DO NOT WORRY if there messages about items not being found.
+
+If there is a problem with cmake or if you are ever encountering trouble later, you can
+rerun cmake manually by clicking on "Project" at the top toolbar and 
+select "Delete Cache and Reconfigure". If everything is working properly, you should not
+need to do this.
+
+The "Solution Explorer" on the right side of your window will show your folder tree.
+To compile the code, you will want to see compilation targets here. At the top 
+of the "Solution Explorer", find a button at the top with a Visual Studio icon 
+on it that allows you to switch between solutions and available views. 
+You should click it and switch to "CMake Targets View" to see a variety
+of items that you can build. 
+
+Try building the "triangle" program (right click on the target and select "Build").
+If successful, find triangle.exe in "opengl-examples/bin". If it runs, repeat the
+process with "viewer". "viewer" will load a duck model by default, but it will load
+a specified model file if you provide it as a parameter to the command line program.
+Other models to try are available in the "models" folder. You can also build all programs
+by right clicking on "opengl-examples Project" at the top and selecting "Build All"
+
+***STEP 3*** (if needed): If you receive an error message about missing DLL files when
+you run the triangle.exe program, find the file in opengl-libs and copy it into
+your bin folder. The cmake configuration in this project tries to copy
+them automatically for you, if possible. You may need to look in these
+two folders to find the files: 
+opengl-libs/assimp-???/bin/Debug/assimp-vc???-mtd.dll 
+opengl-libs/glew-???/bin/Release/x64/glew32.dll
+
+***STEP 4***: Use cmd.exe, the git-bash shell, or some other console to run the
+programs. The programs do print useful information to the console and
+some of the programs take parameters. Therefore, running the programs
+from the command line may be helpful. 
+
+For example, try running:
+./viewer.exe --fit ../models/cube/cube.obj
+(The "./" at the beginning of the line may or may not be necessary depending on your shell.)
+
+Tip: Make your file browser show you filename extensions.
+https://www.howtogeek.com/205086/beginner-how-to-make-windows-show-file-extensions/

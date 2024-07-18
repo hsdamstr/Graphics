@@ -1,0 +1,896 @@
+[TYPE ]    seconds     filename:line message
+------------------------------------------
+[INFO ]   0.000000        msg.c:314  Writing messages into 'log.txt'
+[DEBUG]   0.000058 kuhl-nodep.c:66   Trying to read file settings.ini
+[DEBUG]   0.000069 kuhl-nodep.c:66   Trying to read file settings.ini
+[DEBUG]   0.000091 kuhl-nodep.c:66   Trying to read file ../samples/settings.ini
+[DEBUG]   0.000100 kuhl-nodep.c:66   Trying to read file ../samples/settings.ini
+[DEBUG]   0.000105 kuhl-nodep.c:66   Trying to read file ../models/settings.ini
+[DEBUG]   0.000111 kuhl-nodep.c:66   Trying to read file ../models/settings.ini
+[DEBUG]   0.000116 kuhl-nodep.c:66   Trying to read file ../images/settings.ini
+[DEBUG]   0.000122 kuhl-nodep.c:66   Trying to read file ../images/settings.ini
+[DEBUG]   0.000126 kuhl-nodep.c:66   Trying to read file ..//settings.ini
+[DEBUG]   0.000132 kuhl-nodep.c:66   Trying to read file ..//settings.ini
+[DEBUG]   0.000137 kuhl-nodep.c:66   Trying to read file config/settings.ini
+[DEBUG]   0.000143 kuhl-nodep.c:66   Trying to read file config/settings.ini
+[DEBUG]   0.000147 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000152 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000157 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/settings.ini
+[DEBUG]   0.000162 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/settings.ini
+[DEBUG]   0.000166 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000170 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000174 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000179 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000183 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/settings.ini
+[DEBUG]   0.000192 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/settings.ini
+[DEBUG]   0.000197 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/settings.ini
+[DEBUG]   0.000206 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/settings.ini
+[DEBUG]   0.000211 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../models/settings.ini
+[DEBUG]   0.000218 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../models/settings.ini
+[DEBUG]   0.000224 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../images/settings.ini
+[DEBUG]   0.000232 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../images/settings.ini
+[DEBUG]   0.000237 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/..//settings.ini
+[DEBUG]   0.000241 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/..//settings.ini
+[DEBUG]   0.000246 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/config/settings.ini
+[DEBUG]   0.000254 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/config/settings.ini
+[DEBUG]   0.000259 kuhl-nodep.c:66   Trying to read file settings.ini
+[DEBUG]   0.000263 kuhl-nodep.c:66   Trying to read file ../samples/settings.ini
+[DEBUG]   0.000267 kuhl-nodep.c:66   Trying to read file ../models/settings.ini
+[DEBUG]   0.000272 kuhl-nodep.c:66   Trying to read file ../images/settings.ini
+[DEBUG]   0.000276 kuhl-nodep.c:66   Trying to read file ..//settings.ini
+[DEBUG]   0.000280 kuhl-nodep.c:66   Trying to read file config/settings.ini
+[DEBUG]   0.000285 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000289 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/settings.ini
+[DEBUG]   0.000293 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000298 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/settings.ini
+[DEBUG]   0.000308 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/settings.ini
+[DEBUG]   0.000313 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/settings.ini
+[DEBUG]   0.000318 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../models/settings.ini
+[DEBUG]   0.000323 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../images/settings.ini
+[DEBUG]   0.000328 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/..//settings.ini
+[DEBUG]   0.000333 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/config/settings.ini
+[DEBUG]   0.000340 kuhl-config.c:83   Can't read/find default config file: settings.ini
+[DEBUG]   0.000344  kuhl-util.c:366  Parameters: ./bin/infinicity 
+[DEBUG]   0.017928  kuhl-util.c:405  Using linear color in fragment program. Set color.linear=0 to disable.
+[DEBUG]   0.300059  kuhl-util.c:119  Current time: 2024-7-18 16:54:06
+[DEBUG]   0.300079  kuhl-util.c:122  Library compiled at: Fri Dec  9 12:40:22 2022
+[DEBUG]   0.300084  kuhl-util.c:132  Hostname: DESKTOP-FMI7210
+[DEBUG]   0.300087  kuhl-util.c:143  Platform: Linux
+[DEBUG]   0.300091  kuhl-util.c:153  Uname: Linux DESKTOP-FMI7210 5.15.153.1-microsoft-standard-WSL2 #1 SMP Fri Mar 29 23:14:13 UTC 2024 x86_64
+[DEBUG]   0.300094  kuhl-util.c:158  OpenGL version: 4.2 (Core Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2
+[DEBUG]   0.300098  kuhl-util.c:159  GLSL version: 4.20
+[DEBUG]   0.300101  kuhl-util.c:160  OpenGL vendor: Microsoft Corporation
+[DEBUG]   0.300105  kuhl-util.c:161  OpenGL renderer: D3D12 (NVIDIA GeForce GTX 1050 Ti)
+[DEBUG]   0.300108  kuhl-util.c:163  GLFW version: 3.3.6 X11 GLX EGL OSMesa clock_gettime evdev shared
+[DEBUG]   0.300111  kuhl-util.c:164  GLEW version: 2.2.0
+[DEBUG]   0.300119  kuhl-util.c:165  ASSIMP version: 5.2.0
+[DEBUG]   0.300122  kuhl-util.c:168  ImageMagick version: 6.9.11
+[DEBUG]   0.300125  kuhl-util.c:174  FFmpeg is installed: 4.4.2-0ubuntu0.22.04.1
+[DEBUG]   0.300128  kuhl-util.c:186  Compiler Type: gcc or other
+[DEBUG]   0.300130  kuhl-util.c:190  Compiler version: 11.3.0
+[DEBUG]   0.300461  kuhl-util.c:208  Monitor 0: "XWAYLAND0" isPrimary=1 pos=0,0 dimen=0mmx0mm
+[DEBUG]   0.300877  kuhl-util.c:216  Monitor 0 CURRENT mode: resolution=1920x1080@60Hz RGBbits=8 8 8
+[DEBUG]   0.300900  kuhl-util.c:224  Monitor 0 available mode: resolution=320x200@59Hz RGBbits=8 8 8
+[DEBUG]   0.300904  kuhl-util.c:224  Monitor 0 available mode: resolution=320x240@60Hz RGBbits=8 8 8
+[DEBUG]   0.300907  kuhl-util.c:224  Monitor 0 available mode: resolution=640x350@60Hz RGBbits=8 8 8
+[DEBUG]   0.300910  kuhl-util.c:224  Monitor 0 available mode: resolution=640x400@60Hz RGBbits=8 8 8
+[DEBUG]   0.300913  kuhl-util.c:224  Monitor 0 available mode: resolution=720x400@60Hz RGBbits=8 8 8
+[DEBUG]   0.300916  kuhl-util.c:224  Monitor 0 available mode: resolution=640x480@59Hz RGBbits=8 8 8
+[DEBUG]   0.300919  kuhl-util.c:224  Monitor 0 available mode: resolution=720x480@60Hz RGBbits=8 8 8
+[DEBUG]   0.300922  kuhl-util.c:224  Monitor 0 available mode: resolution=864x486@60Hz RGBbits=8 8 8
+[DEBUG]   0.300925  kuhl-util.c:224  Monitor 0 available mode: resolution=800x600@60Hz RGBbits=8 8 8
+[DEBUG]   0.300928  kuhl-util.c:224  Monitor 0 available mode: resolution=1024x576@60Hz RGBbits=8 8 8
+[DEBUG]   0.300931  kuhl-util.c:224  Monitor 0 available mode: resolution=1024x768@60Hz RGBbits=8 8 8
+[DEBUG]   0.300934  kuhl-util.c:224  Monitor 0 available mode: resolution=1280x720@60Hz RGBbits=8 8 8
+[DEBUG]   0.300937  kuhl-util.c:224  Monitor 0 available mode: resolution=1152x864@60Hz RGBbits=8 8 8
+[DEBUG]   0.300940  kuhl-util.c:224  Monitor 0 available mode: resolution=1280x800@60Hz RGBbits=8 8 8
+[DEBUG]   0.300943  kuhl-util.c:224  Monitor 0 available mode: resolution=1368x768@60Hz RGBbits=8 8 8
+[DEBUG]   0.300945  kuhl-util.c:224  Monitor 0 available mode: resolution=1280x960@60Hz RGBbits=8 8 8
+[DEBUG]   0.300957  kuhl-util.c:224  Monitor 0 available mode: resolution=1440x900@60Hz RGBbits=8 8 8
+[DEBUG]   0.300960  kuhl-util.c:224  Monitor 0 available mode: resolution=1280x1024@60Hz RGBbits=8 8 8
+[DEBUG]   0.300963  kuhl-util.c:224  Monitor 0 available mode: resolution=1600x900@60Hz RGBbits=8 8 8
+[DEBUG]   0.300966  kuhl-util.c:224  Monitor 0 available mode: resolution=1400x1050@60Hz RGBbits=8 8 8
+[DEBUG]   0.300969  kuhl-util.c:224  Monitor 0 available mode: resolution=1440x1080@60Hz RGBbits=8 8 8
+[DEBUG]   0.300972  kuhl-util.c:224  Monitor 0 available mode: resolution=1680x1050@60Hz RGBbits=8 8 8
+[DEBUG]   0.300975  kuhl-util.c:224  Monitor 0 available mode: resolution=1920x1080@60Hz RGBbits=8 8 8
+[DEBUG]   0.300978  kuhl-util.c:229  ===================
+[DEBUG]   0.300985 kuhl-nodep.c:66   Trying to read file ../images/app-icon.png
+[DEBUG]   0.300993 kuhl-nodep.c:66   Trying to read file ../images/app-icon.png
+[DEBUG]   0.301011 kuhl-nodep.c:66   Trying to read file ../samples/../images/app-icon.png
+[DEBUG]   0.301016 kuhl-nodep.c:66   Trying to read file ../samples/../images/app-icon.png
+[DEBUG]   0.301020 kuhl-nodep.c:66   Trying to read file ../models/../images/app-icon.png
+[DEBUG]   0.301025 kuhl-nodep.c:66   Trying to read file ../models/../images/app-icon.png
+[DEBUG]   0.301029 kuhl-nodep.c:66   Trying to read file ../images/../images/app-icon.png
+[DEBUG]   0.301034 kuhl-nodep.c:66   Trying to read file ../images/../images/app-icon.png
+[DEBUG]   0.301038 kuhl-nodep.c:66   Trying to read file ..//../images/app-icon.png
+[DEBUG]   0.301048 kuhl-nodep.c:66   Trying to read file ..//../images/app-icon.png
+[DEBUG]   0.301053 kuhl-nodep.c:66   Trying to read file config/../images/app-icon.png
+[DEBUG]   0.301057 kuhl-nodep.c:66   Trying to read file config/../images/app-icon.png
+[DEBUG]   0.301061 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/../images/app-icon.png
+[DEBUG]   0.301066 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/../images/app-icon.png
+[DEBUG]   0.301071 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/../images/app-icon.png
+[DEBUG]   0.301075 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/../images/app-icon.png
+[DEBUG]   0.301080 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/../images/app-icon.png
+[DEBUG]   0.301085 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/../images/app-icon.png
+[DEBUG]   0.301089 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/../images/app-icon.png
+[DEBUG]   0.301093 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/../images/app-icon.png
+[DEBUG]   0.301097 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../images/app-icon.png
+[INFO ]   0.301361  kuhl-util.c:645  GLSL prog 1: Creating vertex (infinicity.vert) & fragment (infinicity.frag) shaders
+[DEBUG]   0.301406 kuhl-nodep.c:66   Trying to read file infinicity.frag
+[DEBUG]   0.301416 kuhl-nodep.c:66   Trying to read file infinicity.frag
+[DEBUG]   0.301427 kuhl-nodep.c:66   Trying to read file ../samples/infinicity.frag
+[DEBUG]   0.301432 kuhl-nodep.c:66   Trying to read file ../samples/infinicity.frag
+[DEBUG]   0.301436 kuhl-nodep.c:66   Trying to read file ../models/infinicity.frag
+[DEBUG]   0.301441 kuhl-nodep.c:66   Trying to read file ../models/infinicity.frag
+[DEBUG]   0.301445 kuhl-nodep.c:66   Trying to read file ../images/infinicity.frag
+[DEBUG]   0.301449 kuhl-nodep.c:66   Trying to read file ../images/infinicity.frag
+[DEBUG]   0.301453 kuhl-nodep.c:66   Trying to read file ..//infinicity.frag
+[DEBUG]   0.301461 kuhl-nodep.c:66   Trying to read file ..//infinicity.frag
+[DEBUG]   0.301465 kuhl-nodep.c:66   Trying to read file config/infinicity.frag
+[DEBUG]   0.301469 kuhl-nodep.c:66   Trying to read file config/infinicity.frag
+[DEBUG]   0.301474 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/infinicity.frag
+[DEBUG]   0.301478 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/infinicity.frag
+[DEBUG]   0.301487 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/infinicity.frag
+[DEBUG]   0.301492 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/infinicity.frag
+[DEBUG]   0.301496 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/infinicity.frag
+[DEBUG]   0.301500 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/infinicity.frag
+[DEBUG]   0.301504 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/infinicity.frag
+[DEBUG]   0.301509 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/infinicity.frag
+[DEBUG]   0.301513 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/infinicity.frag
+[DEBUG]   0.301521 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/infinicity.frag
+[DEBUG]   0.301526 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/infinicity.frag
+[DEBUG]   0.306123 kuhl-nodep.c:66   Trying to read file infinicity.vert
+[DEBUG]   0.306165 kuhl-nodep.c:66   Trying to read file infinicity.vert
+[DEBUG]   0.306185 kuhl-nodep.c:66   Trying to read file ../samples/infinicity.vert
+[DEBUG]   0.306190 kuhl-nodep.c:66   Trying to read file ../samples/infinicity.vert
+[DEBUG]   0.306195 kuhl-nodep.c:66   Trying to read file ../models/infinicity.vert
+[DEBUG]   0.306200 kuhl-nodep.c:66   Trying to read file ../models/infinicity.vert
+[DEBUG]   0.306204 kuhl-nodep.c:66   Trying to read file ../images/infinicity.vert
+[DEBUG]   0.306209 kuhl-nodep.c:66   Trying to read file ../images/infinicity.vert
+[DEBUG]   0.306213 kuhl-nodep.c:66   Trying to read file ..//infinicity.vert
+[DEBUG]   0.306220 kuhl-nodep.c:66   Trying to read file ..//infinicity.vert
+[DEBUG]   0.306224 kuhl-nodep.c:66   Trying to read file config/infinicity.vert
+[DEBUG]   0.306228 kuhl-nodep.c:66   Trying to read file config/infinicity.vert
+[DEBUG]   0.306233 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/infinicity.vert
+[DEBUG]   0.306238 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/infinicity.vert
+[DEBUG]   0.306242 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/infinicity.vert
+[DEBUG]   0.306246 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/infinicity.vert
+[DEBUG]   0.306251 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/infinicity.vert
+[DEBUG]   0.306255 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/infinicity.vert
+[DEBUG]   0.306259 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/infinicity.vert
+[DEBUG]   0.306264 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/infinicity.vert
+[DEBUG]   0.306268 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/infinicity.vert
+[DEBUG]   0.306276 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/infinicity.vert
+[DEBUG]   0.306281 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/infinicity.vert
+[INFO ]   0.307707  kuhl-util.c:554  GLSL prog 1: Active attributes: in_Position@0 in_Color@1 
+[INFO ]   0.307757  kuhl-util.c:576  GLSL prog 1: Active uniforms: ModelView@0 Projection@1 
+[INFO ]   0.307790  kuhl-util.c:586  GLSL prog 1: AttachedShaderCount=2 Size=0 
+[INFO ]   0.307802  kuhl-util.c:645  GLSL prog 4: Creating vertex (texture.vert) & fragment (texture.frag) shaders
+[DEBUG]   0.307812 kuhl-nodep.c:66   Trying to read file texture.frag
+[DEBUG]   0.307822 kuhl-nodep.c:66   Trying to read file texture.frag
+[DEBUG]   0.307833 kuhl-nodep.c:66   Trying to read file ../samples/texture.frag
+[DEBUG]   0.307838 kuhl-nodep.c:66   Trying to read file ../samples/texture.frag
+[DEBUG]   0.307843 kuhl-nodep.c:66   Trying to read file ../models/texture.frag
+[DEBUG]   0.307847 kuhl-nodep.c:66   Trying to read file ../models/texture.frag
+[DEBUG]   0.307851 kuhl-nodep.c:66   Trying to read file ../images/texture.frag
+[DEBUG]   0.307874 kuhl-nodep.c:66   Trying to read file ../images/texture.frag
+[DEBUG]   0.307887 kuhl-nodep.c:66   Trying to read file ..//texture.frag
+[DEBUG]   0.307894 kuhl-nodep.c:66   Trying to read file ..//texture.frag
+[DEBUG]   0.307899 kuhl-nodep.c:66   Trying to read file config/texture.frag
+[DEBUG]   0.307903 kuhl-nodep.c:66   Trying to read file config/texture.frag
+[DEBUG]   0.307907 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/texture.frag
+[DEBUG]   0.307912 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/texture.frag
+[DEBUG]   0.307916 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/texture.frag
+[DEBUG]   0.307921 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/texture.frag
+[DEBUG]   0.307925 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/texture.frag
+[DEBUG]   0.307929 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/texture.frag
+[DEBUG]   0.307934 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/texture.frag
+[DEBUG]   0.307938 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/texture.frag
+[DEBUG]   0.307942 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/texture.frag
+[DEBUG]   0.307949 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/texture.frag
+[DEBUG]   0.307954 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/texture.frag
+[DEBUG]   0.308114 kuhl-nodep.c:66   Trying to read file texture.vert
+[DEBUG]   0.308125 kuhl-nodep.c:66   Trying to read file texture.vert
+[DEBUG]   0.308137 kuhl-nodep.c:66   Trying to read file ../samples/texture.vert
+[DEBUG]   0.308142 kuhl-nodep.c:66   Trying to read file ../samples/texture.vert
+[DEBUG]   0.308147 kuhl-nodep.c:66   Trying to read file ../models/texture.vert
+[DEBUG]   0.308152 kuhl-nodep.c:66   Trying to read file ../models/texture.vert
+[DEBUG]   0.308157 kuhl-nodep.c:66   Trying to read file ../images/texture.vert
+[DEBUG]   0.308163 kuhl-nodep.c:66   Trying to read file ../images/texture.vert
+[DEBUG]   0.308168 kuhl-nodep.c:66   Trying to read file ..//texture.vert
+[DEBUG]   0.308175 kuhl-nodep.c:66   Trying to read file ..//texture.vert
+[DEBUG]   0.308180 kuhl-nodep.c:66   Trying to read file config/texture.vert
+[DEBUG]   0.308185 kuhl-nodep.c:66   Trying to read file config/texture.vert
+[DEBUG]   0.308190 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/texture.vert
+[DEBUG]   0.308195 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/texture.vert
+[DEBUG]   0.308200 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/texture.vert
+[DEBUG]   0.308205 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/texture.vert
+[DEBUG]   0.308210 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/texture.vert
+[DEBUG]   0.308215 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/texture.vert
+[DEBUG]   0.308220 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/texture.vert
+[DEBUG]   0.308224 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/texture.vert
+[DEBUG]   0.308229 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/texture.vert
+[DEBUG]   0.308238 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/texture.vert
+[DEBUG]   0.308244 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../samples/texture.vert
+[INFO ]   0.309712  kuhl-util.c:554  GLSL prog 4: Active attributes: in_Position@0 in_TexCoord@1 
+[INFO ]   0.309770  kuhl-util.c:576  GLSL prog 4: Active uniforms: ModelView@0 Projection@1 tex@2 
+[INFO ]   0.309806  kuhl-util.c:586  GLSL prog 4: AttachedShaderCount=2 Size=0 
+[DEBUG]   0.309830  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.311169  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.311496  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.312265  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.312675  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.313281  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.313639  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.314305  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.314749  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.315686  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.316190  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.317234  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.317621  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.318589  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.319021  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.319393  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.319806  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.320525  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.321042  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.321511  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.321987  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.322812  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.323256  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.323626  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.323941  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.324669  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.325112  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.326132  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.326837  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.328169  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.328873  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.329969  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.330457  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.331200  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.331769  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.332488  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.333044  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.334147  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.335447  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.337471  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.338284  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.339950  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.340795  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.341622  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.342250  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.343335  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.344028  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.345144  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.346006  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.347690  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.348654  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.350333  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.350955  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.352627  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.353325  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.353781  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.354304  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.355681  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.356152  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.356619  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.357041  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.357631  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.358482  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.359927  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.361180  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.362502  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.363130  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.365260  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.366000  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.367279  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.368147  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.370770  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.371647  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.373081  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.374096  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.376225  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.376705  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.377314  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.377684  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.378391  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.379037  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.379576  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.379868  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.380146  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.380427  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.381017  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.381336  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.382108  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.382410  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.383010  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.383341  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.383986  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.384637  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.385177  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.385472  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.386441  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.386884  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.387504  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.387825  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.388118  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.388392  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.388963  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.389283  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.390002  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.390388  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.390910  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.391187  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.391452  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.391724  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.392242  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.392520  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.393159  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.393459  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.394083  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.394397  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.395173  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.395590  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.396132  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.396404  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.396684  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.396962  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.397507  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.397787  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.398481  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.398847  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.399464  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.399782  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.400187  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.400539  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.401074  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.401375  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.402150  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.402573  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.403090  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.403366  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.404012  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.404380  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.404900  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.405181  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.405962  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.406357  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.406990  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.407318  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.407686  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.408058  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.408687  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.409066  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.410022  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.410910  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.411473  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.411769  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.412234  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.412603  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.413168  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.413452  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.414187  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.414560  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.415173  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.415572  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.415930  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.416269  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.416826  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.417154  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.418167  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.419189  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.419751  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.420038  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.420424  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.420792  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.421339  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.422035  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.422725  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.423053  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.423600  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.423994  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.424889  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.425752  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.426307  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.426600  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.426921  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.427260  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.427833  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.428131  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.428864  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.429267  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.429887  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.430249  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.430674  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.431094  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.431729  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.432086  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.432999  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.433902  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.434484  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.434773  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.435525  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.436001  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.436636  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.436943  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.437277  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.437605  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.438152  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.438494  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.439177  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.439513  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.440072  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.440379  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.441120  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.441502  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.442174  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.442513  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.442830  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.443138  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.443692  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.443974  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.444668  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.445005  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.445523  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.445827  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.446647  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.447525  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.448219  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.448515  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.448943  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.449320  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.449916  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.450200  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.450922  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.451271  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.451807  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.452095  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.452414  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.452734  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.453264  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.453602  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.454481  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.455388  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.455975  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.456258  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.456622  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.456975  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.457496  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.457773  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.458090  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.458414  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.458972  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.459291  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.460143  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.461331  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.461913  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.462243  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.463070  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.463495  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.464085  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.464432  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.465342  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.466270  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.466881  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.467178  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.467565  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.467956  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.468573  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.468895  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.469669  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.470050  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.470588  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.470887  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.471428  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.471735  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.472414  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.473044  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.474031  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.474955  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.475499  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.475779  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.476549  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.476999  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.477627  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.477926  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.478356  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.478795  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.479511  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.479895  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.480851  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.481712  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.482254  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.482554  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.483319  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.483753  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.484413  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.484786  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.485510  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.485844  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.486433  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.486741  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.487057  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.487384  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.488000  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.488326  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.488672  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.489015  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.489617  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.489954  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.490920  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.491858  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.492418  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.492703  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.493026  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.493358  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.493946  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.494233  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.495060  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.495477  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.496086  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.496494  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.497447  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.498335  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.498863  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.499140  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.499488  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.499862  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.500429  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.500710  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.501426  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.501787  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.502352  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.502723  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.503221  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.503650  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.504271  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.504643  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.505690  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.506560  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.507114  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.507390  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.507716  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.508040  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.508645  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.508971  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.509409  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.509774  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.510798  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.511151  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.512099  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.513027  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.513656  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.513986  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.514351  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.514756  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.515340  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.515655  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.516433  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.516862  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.517536  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.517868  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.518230  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.518603  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.519224  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.519567  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.520449  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.521585  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.522224  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.522653  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.523656  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.524556  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.525188  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.525544  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.526533  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.527657  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.528301  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.528586  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.529300  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.529646  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.530184  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.530485  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.531246  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.531690  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.532208  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.532543  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.533520  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.534488  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.535042  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.535346  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.536147  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.536961  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.537563  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.537853  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.538181  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.538510  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.539196  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.539660  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.540043  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.540370  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.540944  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.541287  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.542129  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.542978  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.543578  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.543915  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.544290  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.544684  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.545328  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.545642  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.546350  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.546672  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.547224  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.547535  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.548389  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.549234  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.549762  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.550030  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.550718  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.551186  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.551973  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.552272  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.552670  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.553073  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.553769  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.554100  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.554445  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.554759  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.555296  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.555602  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.556497  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.557444  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.558070  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.558387  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.558790  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.559116  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.559687  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.559981  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.560747  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.561151  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.561719  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.562039  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.562935  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.563970  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.564609  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.564913  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.565233  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.565556  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.566088  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.566412  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.567168  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.567584  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.568124  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.568413  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.568765  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.569085  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.569850  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.570266  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.571135  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.572044  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.572607  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.572955  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.573796  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.574640  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.575484  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.575944  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.577010  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.577942  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.578537  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.578837  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.579160  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.579495  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.580100  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.580462  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.581339  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.582217  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.582775  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.583046  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.583711  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.584022  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.584537  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.584806  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.585107  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.585406  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.585924  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.586220  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.587116  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.588136  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.588880  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.589207  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.589586  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.589932  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.590539  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.591045  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.591391  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.591734  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.592307  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.592629  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.593344  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.593772  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.594442  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.594755  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.595601  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.596440  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.596970  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.597258  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.597972  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.598370  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.598975  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.599255  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.599738  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.600183  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.600834  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.601149  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.602048  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.602885  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.603433  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.603756  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.604438  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.604767  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.605764  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.606133  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.606962  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.607411  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.607964  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.608285  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.609117  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.609961  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.610566  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.610912  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.611246  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.611673  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.612307  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.612624  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.613481  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.614313  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.614897  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.615178  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.615520  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.615866  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.616434  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.616748  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.617592  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.618646  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.619248  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.619598  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.620373  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.620804  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.621323  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.621603  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.621924  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.622243  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.622927  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.623259  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.624318  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.625340  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.625904  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.626207  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.627018  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.627807  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.628333  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.628662  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.628995  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.629333  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.629987  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.630328  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.631235  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.632106  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.632666  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.632965  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.633755  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.634198  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.634772  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.635062  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.635365  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.635672  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.636490  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.636813  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.637647  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.638053  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.638836  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.639198  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.640091  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.641040  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.641710  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.642162  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.642552  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.642899  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.643496  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.643790  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.644516  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.644907  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.645438  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.645737  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.646409  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.646731  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.647258  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.647570  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.648487  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.649418  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.649939  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.650239  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.651075  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.651509  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.652064  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.652336  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.652648  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.652969  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.653504  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.653804  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.654780  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.655784  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.656419  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.656746  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.657496  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.657841  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.658506  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.658848  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.659729  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.660284  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.660912  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.661260  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.661673  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.662072  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.662780  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.663241  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.664324  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.665294  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.665927  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.666342  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.666773  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.667171  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.667751  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.668049  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.668802  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.669197  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.669781  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.670061  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.670360  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.670718  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.671269  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.671627  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.672662  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.673713  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.674351  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.674670  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.675503  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.676019  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.676722  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.677024  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.677720  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.678063  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.678729  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.679037  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 1
+[DEBUG]   0.679770  kuhl-util.c:1315 Storing attribute in_Color at index 1 in kuhl_geometry; connected to location 1 in program 1
+[DEBUG]   0.680120  kuhl-util.c:1315 Storing attribute in_Position at index 0 in kuhl_geometry; connected to location 0 in program 4
+[DEBUG]   0.680688  kuhl-util.c:1315 Storing attribute in_TexCoord at index 1 in kuhl_geometry; connected to location 1 in program 4
+[DEBUG]   0.681003 kuhl-nodep.c:66   Trying to read file ../images/road.png
+[DEBUG]   0.681019 kuhl-nodep.c:66   Trying to read file ../images/road.png
+[DEBUG]   0.681038 kuhl-nodep.c:66   Trying to read file ../samples/../images/road.png
+[DEBUG]   0.681043 kuhl-nodep.c:66   Trying to read file ../samples/../images/road.png
+[DEBUG]   0.681048 kuhl-nodep.c:66   Trying to read file ../models/../images/road.png
+[DEBUG]   0.681052 kuhl-nodep.c:66   Trying to read file ../models/../images/road.png
+[DEBUG]   0.681057 kuhl-nodep.c:66   Trying to read file ../images/../images/road.png
+[DEBUG]   0.681061 kuhl-nodep.c:66   Trying to read file ../images/../images/road.png
+[DEBUG]   0.681066 kuhl-nodep.c:66   Trying to read file ..//../images/road.png
+[DEBUG]   0.681071 kuhl-nodep.c:66   Trying to read file ..//../images/road.png
+[DEBUG]   0.681083 kuhl-nodep.c:66   Trying to read file config/../images/road.png
+[DEBUG]   0.681088 kuhl-nodep.c:66   Trying to read file config/../images/road.png
+[DEBUG]   0.681092 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/../images/road.png
+[DEBUG]   0.681097 kuhl-nodep.c:66   Trying to read file /home/kuhl/public-ogl/data/../images/road.png
+[DEBUG]   0.681102 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/../images/road.png
+[DEBUG]   0.681106 kuhl-nodep.c:66   Trying to read file /local/kuhl-public-share/opengl/data/../images/road.png
+[DEBUG]   0.681111 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/../images/road.png
+[DEBUG]   0.681115 kuhl-nodep.c:66   Trying to read file /Users/kuhl/public-ogl/data/../images/road.png
+[DEBUG]   0.681119 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/../images/road.png
+[DEBUG]   0.681124 kuhl-nodep.c:66   Trying to read file /research/kuhl/public-ogl/data/../images/road.png
+[DEBUG]   0.681128 kuhl-nodep.c:66   Trying to read file /home/hsdamstr/CODING/CODING/Graphics/bin/../images/road.png
+[DEBUG]   0.690743  kuhl-util.c:2287 Finished reading '../images/road.png' (848x848, texName=1) with STB
+[DEBUG]   0.690963        dgr.c:346  DGR is disabled.
+[INFO ]   0.690970  viewmat.cpp:236  viewmat display mode: Single window desktop mode.
+[INFO ]   0.691015  viewmat.cpp:277  viewmat control mode: Mouse movement
+[INFO ]   0.692639 bufferswap.c:287  Machine lacks support for swap_control_tear extension
+[INFO ]   0.692848 bufferswap.c:181  Latency reduction is turned on; assuming monitor is 60Hz and we have 16666 microseconds/frame
+[INFO ]   0.692879 bufferswap.c:182  Set bufferswap.latencyreduce to 0 to disable latency reduction.
+[DEBUG]   1.895725 bufferswap.c:118  Skipped a frame. 68321 usec between framebuffer swaps (budget 16666 usec).

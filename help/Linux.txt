@@ -1,0 +1,50 @@
+=== Linux installation instructions ===
+
+For the general idea of how to install this software, review the top
+of README.txt first.
+
+If you are not on a Michigan Tech administered Linux lab computer, you
+will need to install the libraries. To install them on Ubuntu
+20.04, try:
+
+apt install cmake make build-essential imagemagick libmagickwand-dev assimp-utils libassimp-dev libglfw3-dev glew-utils libglew-dev xorg-dev
+
+The above command assumes that you are using X instead of Wayland for
+graphics. Some of the packages have version numbers in them.
+Therefore, different versions of Ubuntu might have slightly different
+package names. To find the right package name, use "apt search assimp"
+to search for available packages that have "assimp" in them. For
+alternative ways to install these packages, look at the files in this
+folder for each of the individual libraries.
+
+Once the libraries are installed, go into the opengl-examples folder and run:
+
+cmake .
+
+If there are error messages, then need to work to resolve them. If you
+don't have assimp installed, you will get a warning message and some
+of the programs will not compile (but some will).
+
+If cmake was successful, run the following to compile the programs:
+
+make
+
+
+To run a program, try:
+
+cd bin
+./triangle
+
+
+If you encounter strange issues with cmake, try running:
+
+./cleanup.sh
+cmake .
+make
+cd bin
+./triangle
+
+(The cleanup.sh script will delete any extra cache files that cmake
+creates/uses).
+
+

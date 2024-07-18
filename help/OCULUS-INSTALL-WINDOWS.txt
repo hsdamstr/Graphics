@@ -1,0 +1,37 @@
+To install Oculus SDK 1.19+, please follow these steps.
+
+0. Verify that you can run triangle.exe normally.
+
+1. Install Oculus Runtime (if you haven't already)
+
+2. Download the Oculus SDK for Native Windows (1.19) from the website
+(newer versions may or may not work)
+https://developer.oculus.com/downloads/native-windows/
+
+3. Open the appropriate LibOVR vcxproj file using Visual Studio. If
+files aren't provided for your version of visual studio, select the
+version closest to the version of Visual Studio that you are using. To
+do this, navigate to:
+opengl-libs/OculusSDK/LibOVR/Projects/Windows/VS2015 (or similar)
+and open the vcxproj file.
+
+4. When the libOVR project is open, go to "Project", "Properties",
+"C/C++", "Code Generation" and change "Runtime Library" to /mDd
+
+If you later find Visual Studio produces an error message about Windows 8.1 SDK
+missing, go to "Project", "Properties", "General", and "Windows SDK Version"
+and change it to a version of the SDK you have installed. Alternatively, you 
+can rerun the Visual Studio Installer, modify Visual Studio, select "Individual
+components" and then install the missing SDK. This will also let you see all of
+the SDKs that you currently have installed.
+
+5. Build LibOVR in Visual Studio.
+
+6. Open cmake-gui for the opengl-examples folder. Click "File | Delete cache". Then click the 
+"configure" button and confirm that it reports that it "Found OVR". Then click "Generate".
+
+7. Reopen the opengl-examples project in Visual Studio, when prompted reload the files from 
+disk. Try to rebuild the triangle solution again to confirm that the compilation process works.
+
+8. Run "triangle.exe --config ../config/oculus.ini" to confirm that the triangle program
+works with your Oculus.
